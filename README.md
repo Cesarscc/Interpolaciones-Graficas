@@ -15,7 +15,6 @@ Instalar numpy:
 pip install numpy
 
 Ejecutar programas:
-
 python Bezier.py
 python BSpline.py
 python Lagrange.py
